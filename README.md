@@ -4,7 +4,7 @@
 This project demonstrates a professional data analysis workflow using a large-scale e-commerce dataset (over 1 million rows). The primary objective was to transform raw transactional data into actionable business insights by applying data cleaning, calculating key performance indicators (KPIs), and performing customer segmentation using advanced SQL techniques in **PostgreSQL**.
 
 ## 🛠 Tech Stack & Skills
-* **RDBMS:** PostgreSQL (Postgres)
+* **RDBMS:** PostgreSQL
 * **Analytical Tool:** JetBrains DataGrip
 * **SQL Techniques:**
     * **Database Views** for creating a clean and consistent data abstraction layer.
